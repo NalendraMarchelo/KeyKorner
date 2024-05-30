@@ -1,0 +1,76 @@
+.highlighted-kategori {
+  height: 250px;
+}
+
+.kategori-terlaris1 {
+  background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url("../image/rexusdaxam64.jpg");
+  background-size: cover;
+  background-position: center;
+}
+.kategori-terlaris2 {
+  background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url("../image/magnetic-2.png");
+  background-size: cover;
+  background-position: center;
+}
+.kategori-terlaris3 {
+  background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url("../image/keycaps-4.png");
+  background-size: cover;
+  background-position: center;
+}
+
+.no-decoration {
+  text-decoration: none;
+  color: whitesmoke;
+}
+
+.no-decoration:hover {
+  color: rgb(3, 3, 3);
+}
+
+.warna1 {
+  background-color: #212529;
+}
+
+.warna2 {
+  color: whitesmoke;
+}
+
+.text-harga {
+  font-size: 22px;
+}
+
+.image-box {
+  height: 250px;
+}
+
+.image-box img {
+  height: 100%;
+  width: 100%;
+  object-fit: cover;
+  object-position: center;
+}
+
+.banner-produk {
+  height: 45vh;
+  background: linear-gradient(), url("../image/banner.png");
+  background-size: cover;
+  background-position: 50% 35%;
+}
+
+.list-group a {
+  text-decoration: none;
+}
+
+.produk-terkait-image {
+  height: 100%;
+  width: 100%;
+  object-fit: cover;
+  object-position: center;
+}
+
+.location-item dt {
+  margin-top: 15px; /* Adjust the value as needed */
+}
+.location-item dd {
+  margin-bottom: 15px; /* Adjust the value as needed */
+}
